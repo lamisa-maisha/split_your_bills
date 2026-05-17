@@ -9,7 +9,7 @@ Its a python command line tool which calculates bills and tip and splits the bil
 
 ## How to run
 '''bash
-python bill splitter.py
+python bill_splitter.py
 
 ## Output example
 Enter food items (type 'done' to finish): 25.50
